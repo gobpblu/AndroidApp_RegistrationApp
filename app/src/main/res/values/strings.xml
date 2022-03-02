@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="login_hint_msg">Enter a login with only characters and numbers</string>
+    <string name="password_hint_msg">Enter a password with only characters and numbers</string>
+    <string name="email_hint_msg">Enter an email with only characters, numbers and @gmail.com</string>
+    <string name="number_hint_msg">Enter a number with only numbers and plus</string>
+    <string name="check">Check</string>
+</resources>
